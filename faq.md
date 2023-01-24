@@ -4,7 +4,7 @@ layout: default
 
 ## FAQ
 
-**My SSD is a 2TB CingKo, is it wrong?**
+## My SSD is a 2TB CingKo, is it wrong?
 
 Not if it works…
 
@@ -18,15 +18,15 @@ More SSD information can be found here:
 
 [SSD Failure Information](https://cngjd.github.io/AyaNeo2-docs/ssd-failure-information.html)
 
-************What SSD is compatible ?************
+## What SSD is compatible ?
 
 Any NVME pcie3 or pcie4 2280 SSD that does not come with a big heatsink.
 
 Use the search function on the [discord](https://discord.gg/dKEhfZjx) to find previous recommendations or the link below.
 
-> 🚩 For more information regarding SSDs, check the detailed information here [SSD Failure Information](https://cngjd.github.io/AyaNeo2-docs/ssd-failure-information.html)
+**🚩 For more information regarding SSDs, check the detailed information here [SSD Failure Information](https://cngjd.github.io/AyaNeo2-docs/ssd-failure-information.html)**
 
-**Has my screen has lightbleed ?**
+## Has my screen has lightbleed ?
 
 Probably not. Stop taking pictures of your black screen at 100% brightness by night, you’ll have a better time using [Dimmer](https://www.nelsonpires.com/software/dimmer) and playing.
 
