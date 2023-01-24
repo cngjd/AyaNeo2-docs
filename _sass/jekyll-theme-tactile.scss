@@ -280,10 +280,11 @@ p {
 }
 
 p a {
-  font-weight: 800;
+  font-weight: 500;
   padding: 5px 10px;
   border-radius: 5px;
   border: 1px solid #fefefe;
+  text-decoration: none;
 }
 
 p a:hover {
