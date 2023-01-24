@@ -8,7 +8,8 @@ In some 2TB Ayaneo 2 models, we’re noticing a higher-than-average failure with
 
 Typically when your SSD is starting to fail, your Ayaneo 2 will start having BSOD’s (blue error screens), rebooting randomly, and then eventually your computer will only boot to a BIOS screen like this: 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/05303c70-099e-43e3-bf72-973775f95e46/Untitled.png)
+<img width="668" alt="image" src="https://user-images.githubusercontent.com/6972693/214361576-3cc0c6c1-0dbd-4f72-8caf-156fb472fde4.png">
+
 
 Navigate to the “Boot” menu - as shown in the screenshot above. If you do not see “Windows Boot Manager (your-SSDs-name-here)” then your Ayaneo 2 is no longer recognizing that the SSD is installed - most likely the SSD has failed/died. 
 
@@ -18,7 +19,8 @@ First step is to contact Ayaneo support at service@ayaneo.com so they can give y
 
 Please also note that this guide is an independent guide written by Ayaneo’s community of fans. We do not have any connection to Ayaneo the company nor can we speak on their behalf. It is our understanding that Ayaneo is OK with customers replacing the SSD in the Ayaneo 2 and GEEK devices on their own, based on the below screenshot from Arthur Zhang - Ayaneo’s owner. However this is always subject to change and you may want to check with Ayaneo to make sure you’re not going to void your warranty before proceeding. 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2d55b59d-30f3-4c4a-be08-3e769fe7756c/Untitled.png)
+<img width="703" alt="image" src="https://user-images.githubusercontent.com/6972693/214361683-54cc5027-f3b1-42ee-b555-d6c8b887a8bb.png">
+
 
 **BEFORE PROCEEDING**, you MUST: 
 
@@ -62,7 +64,7 @@ Some popular SSD options include:
 
 Here is Ayaneo’s official guide on disassembling the Ayaneo 2. Please follow this guide to replace the SSD: 
 
-[https://www.youtube.com/watch?v=CGJHEgt9jcw](https://www.youtube.com/watch?v=CGJHEgt9jcw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CGJHEgt9jcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 You can find a guide for installing Windows 11 fresh here : [Fresh Windows Install](https://cngjd.github.io/AyaNeo2-docs/fresh-windows-install.html).
 
