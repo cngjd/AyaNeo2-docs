@@ -1,6 +1,5 @@
-title: AYANEO 2 Guides
-description: Guides compiled and made by Manji 🥟 and Pheasantwood (both active on the Ayaneo 2 discord). 
-markdown: kramdown
-remote_theme: pages-themes/tactile@v0.2.0
-plugins:
-- jekyll-remote-theme
+title: Tactile theme
+description: Tactile is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-tactile
