@@ -5,12 +5,16 @@ layout: default
 
 ## Toolbox & Tricks
 
+***
+
 ## Useful links
 
 - [Ayaneo discord](https://discord.gg/dKEhfZjx) (please stay civilized even if your preorder is late)
 - [Ayaneo subreddit](https://www.reddit.com/r/ayaneo/)
 - [Ayaneo download page](https://ayaneo.com/support/download)
 - The Ayaneo support can be mailed at [service@ayaneo.com](mailto:service@ayaneo.com)
+
+***
 
 ## Useful tools
 
@@ -24,9 +28,13 @@ layout: default
 - [Syncthing](https://syncthing.net/downloads/) : (a pandora box) if you want to synchronize / backup data across different systems
 - [CrystalDiskInfo](https://www.guru3d.com/files-details/crystaldiskinfo-download.html) : see which SSD you have and its temps
 
+***
+
 ## Ayaneo 2 Retro Power Background:
 
 ![retropowerbg](https://user-images.githubusercontent.com/6972693/214381327-da0f690a-9cdc-4c01-bd36-442247199c02.png)
+
+***
 
 ## Setting the power button to hibernate :
 
@@ -37,9 +45,11 @@ As said better by Microsoft [themselves](https://support.microsoft.com/en-us/win
 - **Start** , then select **Settings** > **System**  > **Power & sleep**  > **Additional power settings**.
 - Select **Choose what the power button does**, and then select **Change settings that are currently unavailable**. Under **Shutdown settings**, select the **Hibernate** checkbox (if it's available), and then select **Save changes**.
 
+***
+
 ## Lowering the refresh rate :
 
-************Why :************ might save you a bit of battery and allow you to get higher settings (or lower temps), as the frame rate of the games will be lowered to match. So far the community has managed to make 46hz, 48hz, and 50hz work. Below 46hz does not seem possible after testing by YouTuber Phawx and Ayaneo Discord user DesignGears. 
+**Why :** might save you a bit of battery and allow you to get higher settings (or lower temps), as the frame rate of the games will be lowered to match. So far the community has managed to make 46hz, 48hz, and 50hz work. Below 46hz does not seem possible after testing by YouTuber Phawx and Ayaneo Discord user DesignGears. 
 
 To do so you need to install [CRU](https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU) to manually create a resolution with the lowered refresh rate.
 
@@ -60,6 +70,8 @@ To do so you need to install [CRU](https://www.monitortests.com/forum/Thread-Cus
 
 **Note : in Playnite, you can use the Resolution Changer extension to bind different refresh rates to different games *(via @voitta)* **
 
+***
+
 ## Proportional Trigger Adjustment:
 
 **Why** : Some games don’t seem to be able to detect the Hall Effect triggers correctly. One example of this issue is in racing games the acceleration and braking functions are on/off rather than gradual as you pull the triggers. 
@@ -69,6 +81,8 @@ Steam has controller curve adjustments, which will only effect games launched fr
 - Click the Steam menu > Settings > Controller > General Controller Settings > Make sure “Xbox Controller” is selected, then hit “Back”.
 - Click on “Desktop Configuration”, then select the left “Trigger” button. Under “Trigger Response Curve” change to “Aggressive”. Then slide the “Trigger Range Start” all the way to the left. Hit “Back”, then “Done” to save changes and exit.
 - Games should now have better trigger response. Racing games should now have gradual braking and acceleration as you pull the trigger.
+
+***
 
 ## Enabling the touch keyboard and virtual touchpad buttons
 
@@ -82,6 +96,8 @@ These two icons will not display in the tray on the bottom right corner of your 
 
 <img width="701" alt="image" src="https://user-images.githubusercontent.com/6972693/214381066-ec7031c2-d888-4f2e-bbfa-5a613d23aa08.png">
 
+***
+
 ## Automatically showing the touch keyboard
 
 **Why** : When selecting text boxes, the touch keyboard can automatically appear when there isn’t a physical keyboard plugged into your device. 
@@ -91,6 +107,8 @@ Click on Start, then select or search and select “Settings”. Click on “Tim
 **Note:** some joystick mouse software, such as Controller Companion and JoyXoff, includes virtual keyboards (via hotkeys), and seems to prevent the touch keyboard automatically appearing.
 
 <img width="704" alt="image" src="https://user-images.githubusercontent.com/6972693/214381120-52612e09-0a5d-41b3-b8ba-35f81b9bae4f.png">
+
+***
 
 ## How to fix an unresponsive touchscreen
 
