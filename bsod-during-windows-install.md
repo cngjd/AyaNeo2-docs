@@ -3,7 +3,7 @@ layout: default
 ---
 [< back](./)
 
-## WDPC_Watchdog_Violation BSOD’s During Windows 11 Install
+## DPC_Watchdog_Violation BSOD’s During Windows 11 Install
 
 If Windows 11 BSOD’s (blue error screen) during installation, with a stop code of “DPC_Watchdog_Violation”, below is a list of recommendations. Our recommendation is to do all of the below tricks in order to have highest chances of a smooth Windows 11 installation. 
 
