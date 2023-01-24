@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[back](./)
+
 ## Fresh Windows Install
 
 The Ayaneo 2 is almost a proper PC but comes with a bundled W11 that has caused issues for several of us here. Here’s a quick guide allowing you to setup your console with a fresh Windows version if you’re just formatting or changing your SSD.
@@ -119,7 +121,8 @@ After Adrenalin completes and you reboot, Device Manager should only have 3 devi
 
 Finally, run the AMD chipset driver you downloaded in earlier steps, leave all checkboxes for all drivers checked, and finish the installation. Then reboot. After you reboot, all devices in Device Manager should be working: 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e63c8275-be47-469c-b928-03e54f96a1d4/Untitled.png)
+![Device Manager After Chipset](https://user-images.githubusercontent.com/50463438/214416196-7176825a-76ec-47a3-9f3a-e72fd93d011a.png)
+
 
 <br /> 
 
@@ -131,12 +134,11 @@ After the first round of Windows Updates are complete, restart your computer. Af
 
 ## 5. Finishing touch
 
-Install [Ayaspace](https://ayaneo.com/product/AYASpace.html) or go the [Getting rid of AyaSpace](https://www.notion.so/Getting-rid-of-AyaSpace-8301708bf9e4434fb457a766ce040ad8) route
+Install [Ayaspace](https://ayaneo.com/product/AYASpace.html) or go the [Getting rid of AyaSpace](https://cngjd.github.io/AyaNeo2-docs/getting-rid-of-ayaspace.html) route
 
-Note: Ayaspace is the ONLY application that can control the LED lights behind the Ayaneo 2’s joysticks. If you want to change their color or turn them off, you have to use Ayaspace. 
 
 ## 6.. Profit
 
-Do whatever you want, install your games, launchers, and so on. Check [Toolbox & Tricks](https://www.notion.so/Toolbox-Tricks-cd20e57a8fee4b0aa5828810c1e9a5e2), [Getting rid of AyaSpace](https://www.notion.so/Getting-rid-of-AyaSpace-8301708bf9e4434fb457a766ce040ad8) or [Example Setup](https://www.notion.so/Example-Setup-d6544066b699468ca3427cce42dc6c2e) if you lack ideas.
+Do whatever you want, install your games, launchers, and so on. Check [Toolbox & Tricks](https://cngjd.github.io/AyaNeo2-docs/toolbox-tricks.html), [Getting rid of AyaSpace](https://cngjd.github.io/AyaNeo2-docs/getting-rid-of-ayaspace.html) or [Example Setup](https://cngjd.github.io/AyaNeo2-docs/example-setup.html) for ideas.
 
 [back](./)
