@@ -64,8 +64,9 @@ Some popular SSD options include:
 
 Here is Ayaneo’s official guide on disassembling the Ayaneo 2. Please follow this guide to replace the SSD: 
 
-[![](https://img.youtube.com/vi/CGJHEgt9jcw/0.jpg)](https://www.youtube.com/watch?v=CGJHEgt9jcw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CGJHEgt9jcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+***
 
 You can find a guide for installing Windows 11 fresh here : [Fresh Windows Install](https://cngjd.github.io/AyaNeo2-docs/fresh-windows-install.html).
 
