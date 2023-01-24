@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Ayaneo 2 Guides
 
 ## How to
 [Fresh Windows Install](./fresh-windows-install.html)
