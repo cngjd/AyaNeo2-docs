@@ -17,6 +17,7 @@ _Simple guides for all your setups and tweaks._
 
 [Safely removing screw covers during disassembly](./removing-screw-covers.html)
 
+***
 
 ## Specific issues
 
@@ -28,6 +29,7 @@ _Common issues encountered by users and informations regarding problems that mig
 
 [DPC_Watchdog_Violation BSOD’s During Windows 11 Install](./bsod-during-windows-install.html)
 
+***
 
 ## Misc
 
@@ -41,6 +43,7 @@ _Everything else that might be useful depending on your needs._
 
 [Example Setup](./example-setup.html)
 
+***
 
 ## And what if I want to contribute to the documentation ? 
 
