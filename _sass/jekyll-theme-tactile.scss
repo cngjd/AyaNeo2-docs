@@ -51,14 +51,14 @@ table {
 
 /* LAYOUT STYLES */
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 1.05em;
+  font-family: Verdana, Arial, serif;
+  font-size: 1em;
   line-height: 1.5;
-  color: #4a4a4a;
+  color: #333;
 }
 
 a {
-  color: #111;
+  color: #000;
 }
 
 header {
@@ -302,6 +302,7 @@ ul li {
   padding-left: 20px;
   list-style-position: inside;
   margin-bottom: 10px;
+  font-weight: 300;
 }
 
 ol li {
