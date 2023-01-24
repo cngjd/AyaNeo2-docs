@@ -37,11 +37,11 @@ _Everything else that might be useful depending on your needs._
 
 [Toolbox & Tricks](./toolbox-tricks.md)
 
-[Getting started: How to find answers](./how-to-find-answers.html)
-
 [FAQ](./faq.html)
 
 [Example Setup](./example-setup.html)
+
+[And if all else fails : How to find answers](./how-to-find-answers.html)
 
 ***
 
