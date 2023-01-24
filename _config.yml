@@ -1,3 +1,6 @@
+title: AYANEO 2 Guides
+description: Guides compiled and made by Manji 🥟 and Pheasantwood (both active on the Ayaneo 2 discord). 
+markdown: kramdown
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
-- jekyll-remote-thememarkdown: kramdown
+- jekyll-remote-theme
