@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+[< back](./)
 
 ## FAQ
 
@@ -34,4 +35,4 @@ If **then** you still notice an issue and it makes your experience worse, contac
 
 ***
 
-[back](./)
+[< back](./)
