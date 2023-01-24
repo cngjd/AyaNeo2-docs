@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+[< back](./)
 
 ## SSD Failure Information
 
@@ -71,4 +72,4 @@ Here is Ayaneo’s official guide on disassembling the Ayaneo 2. Please follow t
 You can find a guide for installing Windows 11 fresh here : [Fresh Windows Install](https://cngjd.github.io/AyaNeo2-docs/fresh-windows-install.html).
 
 ***
-[back](./)
+[< back](./)
