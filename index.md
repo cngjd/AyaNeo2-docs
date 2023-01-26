@@ -41,10 +41,8 @@ _Everything else that might be useful depending on your needs._
 
 [Example Setup](./example-setup.html)
 
-[And if all else fails : How to find answers](./how-to-find-answers.html)
-
 ***
 
 ## And what if I want to contribute to the documentation ? 
 
-[Reference for the markdown](https://github.com/pages-themes/tactile/edit/master/index.md)
+You can see and edit the documentation via the [dedicated github](https://github.com/cngjd/AyaNeo2-docs#readme), editing and doing pull requests.
