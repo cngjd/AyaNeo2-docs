@@ -12,7 +12,7 @@ The Ayaneo 2 is almost a proper PC but comes with a bundled W11 that has caused 
 
 <br /> 
 
-********************Needed :********************
+**Needed :**
 
 - A wired keyboard
 - A USB stick - 16gb or above
@@ -20,7 +20,7 @@ The Ayaneo 2 is almost a proper PC but comes with a bundled W11 that has caused 
 
 <br /> 
 
-**************Optional but useful :**************
+**Optional but useful :**
 
 - A wired mouse (makes the process a lot easier until you have your drivers up)
 - Another computer (mandatory if your Ayaneo can not boot) - *this guide is for Windows, MacOS or Linux work too, I’ll let you check how to make a bootable USB yourself*.
